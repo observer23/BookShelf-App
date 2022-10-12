@@ -5,14 +5,14 @@ An online shelf for your books.
 
 A simple book listing app.
 
--VIPER Pattern,
--There is none 3rd Party library or SwiftUI,
+- VIPER Pattern,
+- There is none 3rd Party library or SwiftUI,
 - API which is given to me,
 - Used CoreData,
--Filtering by date,favourites,
--Searching by letter,
--Display "isFav" ? 
--Directing to Safari for more information.
+- Filtering by date,favourites,
+- Searching by letter,
+- Display "isFav" ? 
+- Directing to Safari for more information.
 
 
 
